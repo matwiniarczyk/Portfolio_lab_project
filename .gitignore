@@ -23,4 +23,6 @@ static/
 
 
 # Pliki dodatkowe
-
+node_modules
+package-lock.json
+project
